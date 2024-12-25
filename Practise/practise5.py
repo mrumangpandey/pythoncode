@@ -10,3 +10,5 @@ for i in word:
     output += emojis.get(i, i) + ' '
     
 print(output)    
+
+##ADDING SOMETHING
